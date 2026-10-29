@@ -1,0 +1,5 @@
+inventory = (
+  "Chicken" : 20,
+  "Rice" : 50,
+  "bread" : 12
+  "Eggs" : 100)
